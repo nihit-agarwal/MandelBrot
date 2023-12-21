@@ -2,8 +2,8 @@ from PIL import Image
 
 
 depth = 100
-width = 20000
-height = 20000
+width = 2000
+height = 2000
 scale = 0.0001
 
 

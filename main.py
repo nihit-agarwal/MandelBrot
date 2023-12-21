@@ -70,6 +70,7 @@ def checkConvergence(arr,n, start, stop):
             arr[iterations] = True
         else:
             arr[iterations] = False
+    print("Thread complete")
 
 if __name__ == '__main__':
     #main()
